@@ -1,0 +1,13 @@
+.menu a:hover{
+/*	margin: -3px; */
+	border: solid 3px #000;
+	border-radius: 50px;
+	background: #fff;
+	font-weight: 900;
+}
+/*.container02 > nav ul li a:hover{
+  margin: -2.5px;
+  padding: 5px 10px;
+  border: solid 2.5px #000;
+	border-radius: 30px;
+}*/
